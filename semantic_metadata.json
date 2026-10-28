@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "pack_id": "astrbot-meme-pack",
+  "images": {
+    "82113bbdbe8c101db02da3d47d9430e68c0ab81ab513a1f2f41093289381e7a1": {
+      "entry_id": "82113bbdbe8c101db02da3d47d9430e68c0ab81ab513a1f2f41093289381e7a1",
+      "content_sha256": "90b1a4b0bde7ae924b7bb47f93a8f2bd0786af8ee5cee19b6f7447dd2ee8d738",
+      "relative_path": "memes/sigh/messi_ignore_fan.jpeg",
+      "category": "sigh",
+      "caption": "梅西身穿红色巴萨连帽卫衣表情冷漠严肃地径直走过，身旁一名巴萨球迷神情焦急迫切地伸手递出马克笔索要签名却被彻底无视。经典名梗‘梅西冷漠路过要签名的球迷’，常用于表达被无视、已读不回、冷淡以对、热脸贴冷屁股、自讨没趣、尴尬或无奈无语的语境。",
+      "caption_status": "done",
+      "tags": [
+        "messi",
+        "梅西",
+        "冷漠",
+        "无视",
+        "已读不回",
+        "签名",
+        "热脸贴冷屁股",
+        "自讨没趣",
+        "无奈",
+        "无语",
+        "巴萨",
+        "尴尬"
+      ],
+      "visible_text": "MÉS QUE UN CLUB FCB"
+    },
+    "a8af23e0429f9660e88873fc0aaa3e64cc80b3d53b462d7da4bb592d6b24df2a": {
+      "entry_id": "a8af23e0429f9660e88873fc0aaa3e64cc80b3d53b462d7da4bb592d6b24df2a",
+      "content_sha256": "0722c90fe1d6c353777906cf197257721f5d5a501b17e98a661168313b6355f7",
+      "relative_path": "memes/angry/maodie_moral_attitude_angry.jpg",
+      "category": "angry",
+      "caption": "名叫‘耄耋’的橘猫露出极其凶狠狰狞的神情，龇牙咧嘴后抿双耳作恐吓哈气状，画面配有‘一个民族对待动物的态度 决定了这个国家道德的高度’字样。常用于强烈愤怒、严厉批判、站在道德制高点质问反驳、炸毛表达极度不满的语境。",
+      "caption_status": "done",
+      "tags": [
+        "耄耋",
+        "猫",
+        "橘猫",
+        "哈气",
+        "炸毛",
+        "龇牙咧嘴",
+        "生气",
+        "愤怒",
+        "一个民族对待动物的态度",
+        "道德的高度",
+        "质问",
+        "反驳",
+        "批判"
+      ],
+      "visible_text": "一个民族对待动物的态度 决定了这个国家道德的高度"
+    },
+    "991b238b15b3a20edf724bf34a9e78c627f7f2b57a883234362e4599cf36436f": {
+      "entry_id": "991b238b15b3a20edf724bf34a9e78c627f7f2b57a883234362e4599cf36436f",
+      "content_sha256": "fb6c2719fe11764e6bffa5afd3b1e2ad2cbc01561bd10e5429c72c95f180c936",
+      "relative_path": "memes/baka/mygo_rana_choubiaozi.jpg",
+      "category": "baka",
+      "caption": "《BanG Dream! It's MyGO!!!!!》中的要乐奈（野猫）有着渐变灰白短发与异色瞳，靠着音箱微笑着，画面下方配有反差强烈的字幕‘臭婊子’。常用于好友间开玩笑互怼、吐槽责备、反差萌骂人、损友互动等亲切又带攻击性的幽默语境。",
+      "caption_status": "done",
+      "tags": [
+        "要乐奈",
+        "要楽奈",
+        "MyGO",
+        "野猫",
+        "臭婊子",
+        "吐槽",
+        "反差萌",
+        "异色瞳",
+        "损友互怼",
+        "责备",
+        "骂人"
+      ],
+      "visible_text": "臭婊子"
+    },
+    "651ed8233382262a13e2271ffe0f20b5511225879758939efd57a03712195812": {
+      "entry_id": "651ed8233382262a13e2271ffe0f20b5511225879758939efd57a03712195812",
+      "content_sha256": "19102eb60d712de33b4f1ab76ddf0a80e954b9149e7daf54745053b34d223a40",
+      "relative_path": "memes/happy/pooh_rubbing_belly_laughing.gif",
+      "category": "happy",
+      "caption": "小熊维尼穿着标志性的红色短袖上衣，两只手抚摸着圆滚滚的大肚子，身体前后摇晃着开怀大笑、前仰后合，双眼笑成弯月牙。常用于表达极其欢乐、被逗乐哈哈大笑、积极反馈、开心庆祝或憨厚喜庆的语境。",
+      "caption_status": "done",
+      "tags": [
+        "小熊维尼",
+        "维尼",
+        "Pooh",
+        "大笑",
+        "摸肚子",
+        "开心",
+        "欢喜",
+        "被逗乐",
+        "憨态可掬",
+        "庆祝"
+      ],
+      "visible_text": ""
+    },
+    "e13910c7f3f00928936fa37709c979e5e57c68d87915565f89de9fed35d98b45": {
+      "entry_id": "e13910c7f3f00928936fa37709c979e5e57c68d87915565f89de9fed35d98b45",
+      "content_sha256": "9cea6ababb285eaa546dce5e3f76348a570e2812bf93b3e8b1baf1e8e7be7a2c",
+      "relative_path": "memes/fool/netanyahu_throwing_snowball.gif",
+      "category": "fool",
+      "caption": "以色列总理内塔尼亚胡身着黑色正装大衣在雪地中弯下身子，抓起一把雪迅速捏成雪球，随后微笑着迎面朝镜头猛力投掷过来。常用于聊天中开玩笑地表示‘吃我一击’、‘吃我一雪球’、‘看招’、幽默整活、互动打闹或缓和气氛的无伤大雅玩笑语境。",
+      "caption_status": "done",
+      "tags": [
+        "内塔尼亚胡",
+        "扔雪球",
+        "雪球",
+        "吃我一击",
+        "看招",
+        "打雪仗",
+        "幽默",
+        "整活",
+        "玩笑",
+        "恶搞"
+      ],
+      "visible_text": ""
+    }
+  }
+}

@@ -1,74 +1,90 @@
-﻿{
-  "maintainer": "请填写你的 GitHub 用户名，例如 your-github-id",
+{
+  "schema_version": 1,
+  "id": "astrbot-meme-pack",
+  "name": "AstrBot 自用表情包",
+  "version": "1.0.0",
+  "description": "个人自用的 AstrBot 表情包合集，支持多场景分类与语义检索。",
+  "author": "woods-marshes",
+  "license": "CC-BY-NC-SA-4.0",
+  "tags": [
+    "memes",
+    "reaction",
+    "custom",
+    "astrbot"
+  ],
+  "icon": "previews/cover.jpg",
+  "previews": [
+    "previews/cover.jpg"
+  ],
   "source": {
-    "subpath": "请填写包根目录相对路径，通常为 . 或 packs/your-pack",
-    "ref": "请填写分支或 tag，例如 main 或 v1.0.0",
-    "repo": "请填写 owner/repo，例如 your-github-id/your-meme-pack-repo",
-    "type": "github"
+    "type": "github",
+    "repo": "woods-marshes/astrbot-meme-pack",
+    "ref": "main",
+    "subpath": "."
   },
-  "id": "请填写唯一包 ID（仅小写字母/数字/._-），例如 your-pack-id",
-  "tags": ["请填写标签，例如 anime", "starter", "meme-pack"],
-  "version": "请使用语义化版本，例如 1.0.0",
-  "description": "请用一句话描述该包定位、风格和使用场景。",
-  "name": "请填写展示名称，例如 你的表情包名称",
   "categories": {
     "angry": {
-      "description": "示例：描述 angry 类别适用场景，建议写清触发语境与语气边界。"
+      "description": "当对话包含抱怨、批评或强烈反对时使用（如用户投诉/观点反驳）"
     },
     "baka": {
-      "description": "示例：描述 baka 类别适用场景；避免与其他类别高度重叠。"
+      "description": "用于轻微责备或吐槽（低级错误/可爱型抱怨），语气保持友善"
     },
     "color": {
-      "description": "示例：描述 color 类别适用场景；可写使用频率建议。"
+      "description": "用于社交场景中的暧昧表达，建议控制使用频率"
     },
     "confused": {
-      "description": "示例：描述 confused 类别适用场景，包含典型触发词。"
+      "description": "用于请求澄清、表达理解障碍，或对用户请求感到困惑时"
     },
     "cpu": {
-      "description": "示例：描述 cpu 类别适用场景，包含技术话题示例。"
+      "description": "技术讨论中表示思维卡顿（复杂问题/需要加载时间）"
     },
     "fool": {
-      "description": "示例：描述 fool 类别适用场景，建议标明幽默边界。"
+      "description": "用于自嘲或缓和气氛的幽默场景（小失误/无伤大雅的玩笑）"
     },
     "givemoney": {
-      "description": "示例：描述 givemoney 类别适用场景，避免误触敏感语义。"
+      "description": "涉及报酬讨论时使用（服务付费/奖励机制），建议配合明确金额"
     },
     "happy": {
-      "description": "示例：描述 happy 类别适用场景，强调正反馈语境。"
+      "description": "用于成功确认、积极反馈或庆祝场景（问题解决/获得成就）"
     },
     "like": {
-      "description": "示例：描述 like 类别适用场景，如赞同、喜欢、推荐。"
+      "description": "用于表达对事物或观点的喜爱（美食/艺术/优秀方案）"
     },
     "meow": {
-      "description": "示例：描述 meow 类别适用场景，可说明正式场景是否禁用。"
+      "description": "用于卖萌或萌系互动场景（宠物话题/安抚情绪），慎用于正式场合"
     },
     "morning": {
-      "description": "示例：描述 morning 类别适用场景，可补充时间段建议。"
+      "description": "用于早安问候（可按你的业务时区定义时间范围）"
     },
     "reply": {
-      "description": "示例：描述 reply 类别适用场景，说明等待反馈语义。"
+      "description": "用于等待用户反馈时（提问后/需要确认）"
     },
     "sad": {
-      "description": "示例：描述 sad 类别适用场景，建议写安慰语境。"
+      "description": "用于表达伤心、歉意、遗憾或安慰场景（遇到挫折/传达坏消息）"
     },
     "see": {
-      "description": "示例：描述 see 类别适用场景，如观察进度、持续关注。"
+      "description": "用于表示偷瞄或持续关注（监控进度/观察变化）"
     },
     "shy": {
-      "description": "示例：描述 shy 类别适用场景，避免与 sad/happy 混淆。"
+      "description": "用于涉及隐私话题或收到赞美时（个人故事/外貌评价）"
     },
     "sigh": {
-      "description": "示例：描述 sigh 类别适用场景，标注消极语气程度。"
+      "description": "用于表达无奈、无语或感慨，以及冷漠、被无视、热脸贴冷屁股的尴尬场景"
     },
     "sleep": {
-      "description": "示例：描述 sleep 类别适用场景，包含休息/疲劳语义。"
+      "description": "用于作息场景（熬夜/疲劳/休息建议）"
     },
     "surprised": {
-      "description": "示例：描述 surprised 类别适用场景，区分轻微与强烈惊讶。"
+      "description": "用于响应超出预期的信息（重大发现/意外转折）"
     },
     "work": {
-      "description": "示例：描述 work 类别适用场景，如任务推进/汇报。"
+      "description": "用于工作流程相关场景（任务分配/进度汇报）"
     }
   },
-  "license": "请填写许可证，例如 CC-BY-NC-SA-4.0 / MIT / 自定义协议名"
+  "extensions": {
+    "semantic": {
+      "version": 1,
+      "file": "semantic_metadata.json"
+    }
+  }
 }
